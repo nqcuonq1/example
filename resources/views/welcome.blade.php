@@ -42,7 +42,7 @@
   </div>
   <!-- <a class="navbar-brand" href="#"><img src="../image/logo.png"></a>
   <a class="navbar-brand" href="#"><img src="../image/logo.png"></a> -->
-  <div class="laco"><img src="../public/image/vn.png ">
+  <div class="laco"><img src="../image/vn.png ">
   <img src="../image/en.png">
 </div>
   <div class="button">
