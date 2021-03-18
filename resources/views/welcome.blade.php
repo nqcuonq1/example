@@ -1,61 +1,87 @@
 <!DOCTYPE html>
 <head>
-<meta charset="UTF-8"/>
-<link rel="stylesheet" href="../css/app.css"/>
-<!-- CSS only -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
-<!-- JavaScript Bundle with Popper -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+   <meta charset="UTF-8"/>
+   <link rel="stylesheet" href="../css/app.css">
+   <!-- CSS only -->
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
+   <!-- JavaScript Bundle with Popper -->
+   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" >
 </head>
 <body>
-<section id="nav-bar" >
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#"><img src="../image/logo.png"></a>
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">HOME</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">INTRODUCTION</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">PRODUCT</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">CONTACT</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">NEWS</a>
-        </li>
-       
-      </ul>
-      <div class="search">
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+   <section id="nav-bar" >
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+         <a class="navbar-brand" href="#"><img src="../image/logo.png"></a>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+         </button>
+         <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+               <li class="nav-item active">
+                  <a class="nav-link" href="#">HOME </a>
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" href="#">NEWS</a>
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" href="#">PRODUCT</a>
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" href="#">INTRODUCTION</a>
+               </li>
+               <li class="nav-item">
+                  <a class="nav-link" href="#">CONTACT</a>
+               </li>
+            </ul>
+         </div>
+      </nav>
+   </section>
+   <!---------------------------------->
+   <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+         <div class="carousel-item active">
+            <img src="../image/banner.jpg" class="d-block w-100">
+         </div>
       </div>
-    </div>
-  </div>
-  <!-- <a class="navbar-brand" href="#"><img src="../image/logo.png"></a>
-  <a class="navbar-brand" href="#"><img src="../image/logo.png"></a> -->
-  <div class="laco"><img src="../image/vn.png ">
-  <img src="../image/en.png">
-</div>
-  <div class="button">
-  <button type="button" class="btn btn-danger">Tiếng Việt</button>
-<button type="button" class="btn btn-warning">Tiếng Anh</button></div>
-</nav>
-</section>
-<!---------------------------------->
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="../image/banner.jpg" class="d-block w-100">
-    </div>
-  </div>
-</div>s
+   </div>
+   <!-----Ab--->
+   <section id="about">
+      <div class="container">
+      <div class="row">
+      <div class="col-md-6">
+         <h2>ABOUT US</h2>
+         <div class="about-content">
+            CHÚNG TÔI LÀ…
+            VETLINK là một công ty thương mại quốc tế có văn phòng chính đặt tại 
+            thành phố Cần Thơ, trung tâm ngành thú y Việt Nam. VETLINK là thành quả
+            của sự hợp tác giữa hai cổ đông chủ chốt, tập đoàn Thiên Quân, Việt Nam, và công ty Abyaad Agrocare, Bangladesh. Tập đoàn Thiên Quân, khởi đầu là nhà nhập khẩu nguyên liệu và sản phẩm thuốc thú y của các thương hiệu uy tín từ Hàn Quốc, Trung Quốc, Ấn Độ và châu Âu, sau hơn 15 năm kinh nghiệm, công ty ngày càng lớn mạnh và hình thành các mối liên kết chặt chẽ với các khách hàng chủ chốt và các công ty cùng lãnh vực. Sự ra đời của công ty VETLINK với trọng tâm hướng vế thị trường xuất khẩu thêm một lần nữa khẳng định khát vọng vươn ra thế giới, nâng tầm chất lượng và vị thế của ngành hàng dược thú y của tập đoàn Thiên Quân nói riêng và Việt Nam nói chung.
+            Được thừa hưởng nền tảng công nghệ và bề dày kinh nghiệm của công ty mẹ Thiên Quân, Công ty VETLINK có đội ngũ bán hàng, tiếp thị và tư vấn kỹ thuật và được đào tạo chuyên nghiệp, có trình độ cao và kinh nghiệm trong ngành chăn nuôi. Các sản phẩm của chúng tôi bao gồm: các sản phẩm dinh dưỡng, sản phẩm sinh học, kháng sinh và các sản phẩm tiêm,… thông qua đó chúng tôi cam kết đáp ứng nhu cầu đa dạng của các hoạt động thú y trên toàn thế giới.
+          </div>
+         
+         <button type="button" class="btn btn-primary">Đọc thêm>></button>
+          
+          </div>
+         <div class="col-md-6">
+            <!-- <p>Chất lượng</p>
+            <div class="progress">
+               <div class="progress-bar" style="width: 99%;">99%
+               </div>
+            </div>
+            <p>Uy tín</p>
+            <div class="progress">
+               <div class="progress-bar" style="width: 100%;">100%
+               </div>
+            </div>
+            <p>Dịch vụ</p>
+            <div class="progress">
+               <div class="progress-bar" style="width: 100%;">100%
+               </div>
+            </div> -->
+            <a class="gthieu" href="#"> <img src="../image/trau (1).jpg"> </a>
+         </div>
+      </div>
+   </section>
 </body>

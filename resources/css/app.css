@@ -1,5 +1,10 @@
 /*---Navigation----*/
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 #nav-bar {
     position: sticky;
     top: 0;
@@ -9,33 +14,56 @@
 
 .navbar-brand img {
     height: 40;
-    padding-left: 2px;
-}
-
-.nav-bar li {
-    padding: 0;
-}
-
-.nav-bar li a {
-    float: right;
-    text-align: left;
+    padding-left: 30px;
 }
 
 .navbar-nav li {
     padding: 0 10px;
 }
 
-.button {
-    margin: 0px;
-    padding: 0px;
-    font-style: italic;
+.navbar-nav li a {
+    float: right;
+    text-align: left;
 }
 
-.search {
-    padding-left: 120px;
+#nav-bar ul li a:hover {
+    color: red!important;
 }
 
-.laco {
-    font-size: 30px;
-    max-width: 300;
+.navbar {
+    background: #FFF;
+}
+
+.nav-link {
+    color: #555!important;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+}
+.navbar {
+    background: #FFF;
+}
+.navbar-toggler {
+    border: none!important;
+}
+#about {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #555;
+}
+#about .btn {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.about-content {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.progress-bar {
+    border-radius: 16px;
+}
+.progress {
+    border-radius: 16px !important;
 }
