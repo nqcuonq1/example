@@ -9,7 +9,8 @@
    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" >
+   
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" >
 </head>
 <body>
    <section id="nav-bar" >
@@ -96,6 +97,24 @@ Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, s�
       </div>
       </div>
       
+   </section>
+   <section id="services">
+     <div class="container">
+     <h1>Dịch vụ</h1>
+     <div class="row services">
+       <div class="col-md-3 text center">
+         <div class="icon">
+         <i class="fab fa-facebook"></i>
+         <i class="fab fa-skype"></i>
+         <i class="fab fa-line"></i>
+         <i class="fab fa-instagram"></i>
+                 </div>
+
+         </div>
+
+     </div>
+     </div>
+
    </section>
          
 </body>
