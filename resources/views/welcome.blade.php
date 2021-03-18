@@ -103,37 +103,37 @@ Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, s�
      <h1>Dịch vụ</h1>
      <div class="row services">
        <div class="col-md-4 text center">
-         <p>VETLINK</br>
-Địa chỉ: 69 – Đường Hùng Vương – Phường Thới Bình Quận Ninh Kiều – Thành Phố Cần Thơ</br>
-
-Điện thoại: (84-292) 3732 626</br>
-
-Email: vetlinkltd@gmail.com</br>
-
-—
-
-Address: 69 Hung Vuong St, Thoi Binh Ward, Ninh Kieu Dist, Can Tho City</br>
-
-Phone: (84-292) 3732 626</br>
-
-Email: vetlinkltd@gmail.com
-
+         <p><b>VETLINK</b></br>----------
  </p>
+ <ul>
+   <li>Địa chỉ: 69 – Đường Hùng Vương – Phường Thới Bình Quận Ninh Kiều – Thành Phố Cần Thơ</li>
+   <li>Điện thoại:<a href="#" >(84-292) 3732 626 </a></li>
+   <li>Email: <a href="#" >vetlinkltd@gmail.com</a></li>
+   <li>— Address: 69 Hung Vuong St, Thoi Binh Ward, Ninh Kieu Dist, Can Tho City</li>
+   <li>Phone: <a href="#" >(84-292) 3732 626</a></li>
+   <li>Email:<a href="#" > vetlinkltd@gmail.com</a></li>
+ </ul>
                  </div>
 
                  <div class="col-md-3 text center">
-        <p>Danh Mục Sản Phẩm</br>
-Chế phẩm sinh học</br>
-Dinh dưỡng</br>
-Kháng sinh</p>
-                 </div>
-                 <div class="col-md-2 text center">
-         <p>Chính Sách <br>
-Hướng dẫn mua hàng <br>
-Thanh toán <br>
-Giao nhận <br>
-Điều khoản</p>
+        <p><b>Danh Mục Sản Phẩm</b></br>---------------------
+        <ul>
+          <li>Chế phẩm sinh học</li>
+          <li>Dinh dưỡng</li>
+          <li>Kháng sinh</li>
+        </ul>
 
+                 </div>
+                 <div class="col-md-3 text center">
+         <p><b>Chính Sách</b> <br>----------
+<ul>
+  <li>Hướng dẫn mua hàng</li>
+  <li>Thanh toán</li>
+  <li>Giao nhận</li>
+  <li>Điều khoản
+
+</li>
+</ul>
          </div>
          <div class="col-md-2 text center">
          <div class="icon">
