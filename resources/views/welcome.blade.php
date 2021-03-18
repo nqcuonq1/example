@@ -66,7 +66,7 @@
           </div>
          <div class="col-md-6">
             
-            <a class="gthieu" href="#"> <img src="../image/trau (1).jpg"> </a>
+            <a class="gthieu" href="#"> <img src="../image/trau.jpg"> </a>
          </div>
       </div>
    </section>
