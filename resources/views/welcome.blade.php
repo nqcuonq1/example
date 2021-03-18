@@ -137,10 +137,11 @@ Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, s�
          </div>
          <div class="col-md-2 text center">
          <div class="icon">
-         <i class="fab fa-facebook"></i>
-         <i class="fab fa-skype"></i>
-         <i class="fab fa-line"></i>
-         <i class="fab fa-instagram"></i>
+        
+<button class="btn"><i class="fab fa-facebook"></i></button>
+<button class="btn"><i class="fab fa-skype"></i></button>
+<button class="btn"><i class="fab fa-line"></i></button>
+<button class="btn"><i class="fab fa-instagram"></i></button>
                  </div>
 
          </div>
