@@ -102,7 +102,40 @@ Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, s�
      <div class="container">
      <h1>Dịch vụ</h1>
      <div class="row services">
-       <div class="col-md-3 text center">
+       <div class="col-md-4 text center">
+         <p>VETLINK</br>
+Địa chỉ: 69 – Đường Hùng Vương – Phường Thới Bình Quận Ninh Kiều – Thành Phố Cần Thơ</br>
+
+Điện thoại: (84-292) 3732 626</br>
+
+Email: vetlinkltd@gmail.com</br>
+
+—
+
+Address: 69 Hung Vuong St, Thoi Binh Ward, Ninh Kieu Dist, Can Tho City</br>
+
+Phone: (84-292) 3732 626</br>
+
+Email: vetlinkltd@gmail.com
+
+ </p>
+                 </div>
+
+                 <div class="col-md-3 text center">
+        <p>Danh Mục Sản Phẩm</br>
+Chế phẩm sinh học</br>
+Dinh dưỡng</br>
+Kháng sinh</p>
+                 </div>
+                 <div class="col-md-2 text center">
+         <p>Chính Sách <br>
+Hướng dẫn mua hàng <br>
+Thanh toán <br>
+Giao nhận <br>
+Điều khoản</p>
+
+         </div>
+         <div class="col-md-2 text center">
          <div class="icon">
          <i class="fab fa-facebook"></i>
          <i class="fab fa-skype"></i>
