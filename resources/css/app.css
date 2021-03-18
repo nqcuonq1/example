@@ -105,7 +105,7 @@ h1 {
     text-align: center;
 }
 #services .btn {
-    border: none;
+    border: black;
     color: white;
     padding: 0;
     font-size: 30px;
