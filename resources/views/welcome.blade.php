@@ -65,23 +65,37 @@
           
           </div>
          <div class="col-md-6">
-            <!-- <p>Chất lượng</p>
-            <div class="progress">
-               <div class="progress-bar" style="width: 99%;">99%
-               </div>
-            </div>
-            <p>Uy tín</p>
-            <div class="progress">
-               <div class="progress-bar" style="width: 100%;">100%
-               </div>
-            </div>
-            <p>Dịch vụ</p>
-            <div class="progress">
-               <div class="progress-bar" style="width: 100%;">100%
-               </div>
-            </div> -->
+            
             <a class="gthieu" href="#"> <img src="../image/trau (1).jpg"> </a>
          </div>
       </div>
    </section>
+   <section id="about">
+      <div class="container">
+      <div class="row">
+      <div class="col-md-6">
+            <p><b>VẬT NUÔI</b></br>
+Vật nuôi (livestock) nói chung là bất cứ giống súc vật nào được con người nuôi vì mục đich hữu dụng, thương mại. "Vật nuôi" còn có thể hàm nghĩa là gia súc, "bán gia súc" và động vật hoang dã đã bị nuôi nhốt.</p>
+            <div class="progress">
+                    </div>
+            <p><b>GIA CẦM</b></br>
+Những loài gia cầm điển hình gồm gà, vịt, ngan, ngỗng. Các loài gia cầm có khả năng bơi, ưa thích sống trong môi trường nước thường được gọi là thủy cầm.</p>
+            <div class="progress">
+                    </div>
+                      <p><b>THỦY SẢN</b></br>
+Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, sản vật đem lại cho con người từ môi trường nước và được con người khai thác, nuôi trồng thu hoạch sử dụng làm thực phẩm, nguyên liệu hoặc bày bán trên thị trường.</p>
+            <div class="progress"></div>
+                  <p><b>SẢN PHẨM KHÁC</b></br>
+Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, sản vật đem lại cho con người từ môi trường nước và được con người khai thác, nuôi trồng thu hoạch sử dụng làm thực phẩm, nguyên liệu hoặc bày bán trên thị trường.</p>
+            <div class="progress"></div>
+      </div>
+<div class="col-md-6">
+            
+            <a class="gthieu" href="#"> <img src="../image/bo.png"> </a>
+         </div>
+      </div>
+      </div>
+      
+   </section>
+         
 </body>
