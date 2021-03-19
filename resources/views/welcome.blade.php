@@ -13,12 +13,17 @@
    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" >
 </head>
 <body>
+ 
    <section id="nav-bar" >
+   
+ 
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      
          <a class="navbar-brand" href="#"><img src="../image/logo.png"></a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
          </button>
+           
          <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
                <li class="nav-item active">
@@ -37,15 +42,58 @@
                   <a class="nav-link" href="#">CONTACT</a>
                </li>
             </ul>
+            <div class="language">
+      <ul>
+         <button style="button"><li><img src="../image/vn.png" alt=""> Tiếng Việt</li></button>
+         <button style="button"><li><img src="../image/en.png" alt=""> Tiếng Anh</li></button>
+      </ul>
+      </div>
+            
          </div>
-      </nav>
+         
+         <input type="text" placeholder="Search..">
+         <i class="fas fa-search"></i>
+            </nav>
+     
    </section>
    <!---------------------------------->
    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
-         <div class="carousel-item active">
+         <div class="banner1">
             <img src="../image/banner.jpg" class="d-block w-100">
+            <div class="banner2">
+            <img src="../image/chim.png" class="d-block w-29">
          </div>
+         <div class="banner2">
+            <img src="../image/bird4.png" class="d-block w-100">
+         </div>
+         <div class="banner3">
+            <img src="../image/bird3.png" class="d-block w-100">
+         </div>
+         <!-- <div class="banner4">
+            <img src="../image/bird5.png" class="d-block w-100">
+         </div> -->
+         <div class="banner5">
+            <img src="../image/leaf.png" class="d-block w-40">
+         </div>
+         <div class="banner5">
+            <img src="../image/vetlink.png" class="d-block w-70">
+         </div>
+         <div class="banner5">
+            <img src="../image/palm-leaf.png" class="d-block w-70">
+         </div>
+         <div class="banner6">
+            <img src="../image/leafs-2.png" class="d-block w-70">
+         </div>
+         <div class="banner7">
+            <img src="../image/leafs-3.png" class="d-block w-70">
+         </div>
+         <div class="banner5">
+            <img src="../image/vetlink.png" class="d-block w-70">
+         </div>
+        
+         </div>
+         
       </div>
    </div>
    <!-----Ab--->
@@ -136,16 +184,13 @@ Thủy sản là một thuật ngữ chỉ chung về những nguồn lợi, s�
 </ul>
          </div>
          <div class="col-md-2 text center">
-         <div class="icon">
-        
+         <div class="icon">        
 <button class="btn"><i class="fab fa-facebook"></i></button>
 <button class="btn"><i class="fab fa-skype"></i></button>
 <button class="btn"><i class="fab fa-line"></i></button>
 <button class="btn"><i class="fab fa-instagram"></i></button>
                  </div>
-
          </div>
-
      </div>
      </div>
 
